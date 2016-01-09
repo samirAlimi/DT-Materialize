@@ -27,7 +27,7 @@ This plugin show you how to use [DataTable](https://www.datatables.net) with [Ma
    + Create your table and his Header
    + Load tabe content
    + Activated dataTable
-   + Display the datatable select lenght
+   + Display the datatable select length
    + Enjoy it.
 
 ##Finally
