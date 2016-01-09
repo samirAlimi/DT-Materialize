@@ -1,5 +1,5 @@
 
-#ECF : DT-Materialize
+#DT-Materialize
 
 This plugin show you how to use [DataTable](https://www.datatables.net) with [Materialize](http://materializecss.com).
 
